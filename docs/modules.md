@@ -1,0 +1,1 @@
+::: stay_locator.foo
