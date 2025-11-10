@@ -1,5 +1,3 @@
-Test push
-
 # stay-locator
 
 [![Release](https://img.shields.io/github/v/release/connorjoleary/stay-locator)](https://img.shields.io/github/v/release/connorjoleary/stay-locator)
