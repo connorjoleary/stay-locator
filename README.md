@@ -36,6 +36,12 @@ To finalize the set-up for publishing to PyPI or Artifactory, see [here](https:/
 For activating the automatic documentation with MkDocs, see [here](https://fpgmaas.github.io/cookiecutter-poetry/features/mkdocs/#enabling-the-documentation-on-github).
 To enable the code coverage reports, see [here](https://fpgmaas.github.io/cookiecutter-poetry/features/codecov/).
 
+## Running your project
+
+Trigger with `uvicorn stay_locator.api.main_api:app --reload` to stand up local server.
+
+TODO: Add to poetry start and trigger programatically
+
 ---
 
 Repository initiated with [fpgmaas/cookiecutter-poetry](https://github.com/fpgmaas/cookiecutter-poetry).
