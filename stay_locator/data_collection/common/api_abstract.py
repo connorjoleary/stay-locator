@@ -1,3 +1,4 @@
+from abc import ABC, abstractmethod
 from os import environ
 
 import requests
@@ -5,10 +6,16 @@ import requests
 from stay_locator.data_collection.common.utils import QueryDetails
 
 
-# TODO: make abstract
-class APITool:
-    host = ""
-    path = ""
+class APITool(ABC):
+    @property
+    @abstractmethod
+    def host(self):
+        pass
+
+    @property
+    @abstractmethod
+    def path(self):
+        pass
 
     def __init__(self):
         if not self.host or not self.path:
@@ -16,6 +23,7 @@ class APITool:
             raise ValueError(value_msg)
         self.url = f"https://{self.host}{self.path}"
 
+    @abstractmethod
     def generate_query_string(self, query_details: QueryDetails) -> str:
         raise NotImplementedError
 

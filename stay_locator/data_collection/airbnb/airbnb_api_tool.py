@@ -3,8 +3,13 @@ from stay_locator.data_collection.common.utils import QueryDetails
 
 
 class AirBNBAPITool(APITool):
-    host = "airbnb19.p.rapidapi.com"
-    path = "/api/v1/searchPropertyByLocationV2"
+    @property
+    def host(self):
+        return "airbnb19.p.rapidapi.com"
+
+    @property
+    def path(self):
+        return "/api/v1/searchPropertyByLocationV2"
 
     def generate_query_string(self, query_details: QueryDetails):
         # TODO: Handle checking of values (if required)
