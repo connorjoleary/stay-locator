@@ -42,6 +42,10 @@ Trigger with `uvicorn stay_locator.api.main_api:app --reload` to stand up local 
 
 TODO: Add to poetry start and trigger programatically
 
+## Future Work
+
+- Add Google hotels as source
+
 ---
 
 Repository initiated with [fpgmaas/cookiecutter-poetry](https://github.com/fpgmaas/cookiecutter-poetry).

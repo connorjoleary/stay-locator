@@ -1,0 +1,1903 @@
+{
+    "status": true,
+    "message": "Success",
+    "timestamp": 1704176896408,
+    "data": {
+        "list": [
+            {
+                "listing": {
+                    "avgRatingLocalized": "4.76 (58)",
+                    "avgRatingA11yLabel": "4.76 out of 5 average rating,  58 reviews",
+                    "city": "London",
+                    "contextualPictures": [
+                        {
+                            "id": "1434513723",
+                            "picture": "https://a0.muscache.com/im/pictures/5e5e364e-2952-46b1-a664-178afdce27b9.jpg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1434513333",
+                            "picture": "https://a0.muscache.com/im/pictures/a0b4f4e7-288d-4024-a7a8-cecd74fddd20.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["1 bed", "1 bedroom"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1434513397",
+                            "picture": "https://a0.muscache.com/im/pictures/2e842c72-f8a8-49df-bc32-45499ab166f0.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["1 shared bathroom"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1434513470",
+                            "picture": "https://a0.muscache.com/im/pictures/97a729f1-749a-4dd3-8021-d4de5b09800e.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": [
+                                    "Wifi",
+                                    "Free parking",
+                                    "Kitchen",
+                                    "Self check-in"
+                                ],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1434513574",
+                            "picture": "https://a0.muscache.com/im/pictures/7c45210f-913d-4418-ba8c-0cf37f8ea4bf.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": [
+                                    "Rated 4.8 out of 5 for cleanliness"
+                                ],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1301764455",
+                            "picture": "https://a0.muscache.com/im/pictures/38363d4a-9cf8-4eca-adc2-0b324000032d.jpg?im_w=720",
+                            "caption": null
+                        }
+                    ],
+                    "contextualPicturesCount": 13,
+                    "contextualPicturesPageInfo": {
+                        "hasNextPage": true,
+                        "endCursor": "NQ=="
+                    },
+                    "coordinate": {
+                        "longitude": -81.26543,
+                        "latitude": 42.98942
+                    },
+                    "formattedBadges": [],
+                    "id": "51306579",
+                    "isAutoTranslated": false,
+                    "listingObjType": "REGULAR",
+                    "localizedCityName": "London",
+                    "name": "Cozy bedroom in Wharncliffe",
+                    "primaryHostPassport": null,
+                    "pdpType": "MARKETPLACE",
+                    "roomTypeCategory": "private_room",
+                    "roomTypeId": null,
+                    "structuredContent": {
+                        "primaryLine": null,
+                        "secondaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "2–7 Jan",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "mapPrimaryLine": null,
+                        "mapSecondaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "2–7 Jan",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "mapCategoryInfo": null,
+                        "distance": [
+                            {
+                                "type": "LISTING_PRIVATE_ROOM_SUITE_HIGHLIGHT",
+                                "headline": null,
+                                "body": "Stay with B",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ]
+                    },
+                    "tierId": 0,
+                    "title": "Place to stay in West London",
+                    "titleLocale": "en"
+                },
+                "pricingQuote": {
+                    "structuredStayDisplayPrice": {
+                        "primaryLine": {
+                            "accessibilityLabel": "$44 per night",
+                            "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                            "concatQualifierLeft": false,
+                            "price": "$44",
+                            "qualifier": "night",
+                            "trailingContent": null,
+                            "shortQualifier": "night"
+                        },
+                        "secondaryLine": {
+                            "accessibilityLabel": "$216 total",
+                            "displayComponentType": "BASIC_DISPLAY_PRICE_LINE",
+                            "price": "$216 total"
+                        },
+                        "explanationData": {
+                            "title": "Price breakdown",
+                            "priceDetails": [
+                                {
+                                    "items": [
+                                        {
+                                            "description": "$29 x 5 nights",
+                                            "priceString": "$147"
+                                        },
+                                        {
+                                            "description": "Cleaning fee",
+                                            "priceString": "$19"
+                                        },
+                                        {
+                                            "description": "Airbnb service fee",
+                                            "priceString": "$28"
+                                        },
+                                        {
+                                            "description": "Taxes",
+                                            "priceString": "$22"
+                                        }
+                                    ],
+                                    "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                                    "shouldRenderTopBorder": false
+                                }
+                            ]
+                        },
+                        "explanationDataDisplayPosition": "SECONDARY_LINE"
+                    }
+                },
+                "listingParamOverrides": {
+                    "adults": 1,
+                    "children": 0,
+                    "infants": 0,
+                    "checkin": "2024-01-02",
+                    "checkout": "2024-01-07",
+                    "causeId": null,
+                    "relaxedAmenityIds": null,
+                    "categoryTag": null,
+                    "pets": 0,
+                    "splitStaysUuid": null,
+                    "highlightType": null,
+                    "enableM3PrivateRoom": false
+                }
+            },
+            {
+                "listing": {
+                    "avgRatingLocalized": "4.86 (354)",
+                    "avgRatingA11yLabel": "4.86 out of 5 average rating,  354 reviews",
+                    "city": "London",
+                    "contextualPictures": [
+                        {
+                            "id": "232601969",
+                            "picture": "https://a0.muscache.com/im/pictures/30bd64f1-20b9-4868-b6b5-437160336d68.jpg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "220162572",
+                            "picture": "https://a0.muscache.com/im/pictures/a2734ad1-9baa-4f5c-b69a-15626b07c507.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["1 bed", "1 bedroom"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "220162692",
+                            "picture": "https://a0.muscache.com/im/pictures/f90b37c8-8ae6-4173-a596-04796655b589.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["1 private bathroom"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "232600887",
+                            "picture": "https://a0.muscache.com/im/pictures/6b5dfc4a-7540-487e-b72e-09afd1c1cab3.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["1 queen bed"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "232601347",
+                            "picture": "https://a0.muscache.com/im/pictures/957526aa-d69d-455a-9bef-77d95abb71f3.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": [
+                                    "Wifi",
+                                    "Free parking",
+                                    "Self check-in"
+                                ],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "220162377",
+                            "picture": "https://a0.muscache.com/im/pictures/781d91a2-a157-46c3-bf2f-af12b892f275.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": [
+                                    "Rated 4.9 out of 5 for cleanliness"
+                                ],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        }
+                    ],
+                    "contextualPicturesCount": 8,
+                    "contextualPicturesPageInfo": {
+                        "hasNextPage": true,
+                        "endCursor": "NQ=="
+                    },
+                    "coordinate": {
+                        "longitude": -81.29375,
+                        "latitude": 42.98429
+                    },
+                    "formattedBadges": [
+                        {
+                            "textColor": "#222222",
+                            "text": "Superhost",
+                            "borderColor": "rgba(0, 0, 0, 0.2)",
+                            "backgroundColor": "rgba(255, 255, 255, 0.95)"
+                        }
+                    ],
+                    "id": "15451866",
+                    "isAutoTranslated": false,
+                    "listingObjType": "REGULAR",
+                    "localizedCityName": "London",
+                    "name": "Molina's Home",
+                    "primaryHostPassport": null,
+                    "pdpType": "MARKETPLACE",
+                    "roomTypeCategory": "private_room",
+                    "roomTypeId": null,
+                    "structuredContent": {
+                        "primaryLine": null,
+                        "secondaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "31 Jan – 5 Feb",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "mapPrimaryLine": null,
+                        "mapSecondaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "31 Jan – 5 Feb",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "mapCategoryInfo": null,
+                        "distance": [
+                            {
+                                "type": "LISTING_PRIVATE_ROOM_SUITE_HIGHLIGHT",
+                                "headline": null,
+                                "body": "Stay with Octavio",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            },
+                            {
+                                "type": "LISTING_PRIVATE_ROOM_SUITE_HIGHLIGHT",
+                                "headline": null,
+                                "body": "Hosting for 7 years",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ]
+                    },
+                    "tierId": 0,
+                    "title": "Place to stay in West London",
+                    "titleLocale": "en"
+                },
+                "pricingQuote": {
+                    "structuredStayDisplayPrice": {
+                        "primaryLine": {
+                            "accessibilityLabel": "$45 per night",
+                            "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                            "concatQualifierLeft": false,
+                            "price": "$45",
+                            "qualifier": "night",
+                            "trailingContent": null,
+                            "shortQualifier": "night"
+                        },
+                        "secondaryLine": {
+                            "accessibilityLabel": "$224 total",
+                            "displayComponentType": "BASIC_DISPLAY_PRICE_LINE",
+                            "price": "$224 total"
+                        },
+                        "explanationData": {
+                            "title": "Price breakdown",
+                            "priceDetails": [
+                                {
+                                    "items": [
+                                        {
+                                            "description": "$35 x 5 nights",
+                                            "priceString": "$173"
+                                        },
+                                        {
+                                            "description": "Airbnb service fee",
+                                            "priceString": "$29"
+                                        },
+                                        {
+                                            "description": "Taxes",
+                                            "priceString": "$22"
+                                        }
+                                    ],
+                                    "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                                    "shouldRenderTopBorder": false
+                                }
+                            ]
+                        },
+                        "explanationDataDisplayPosition": "SECONDARY_LINE"
+                    }
+                },
+                "listingParamOverrides": {
+                    "adults": 1,
+                    "children": 0,
+                    "infants": 0,
+                    "checkin": "2024-01-31",
+                    "checkout": "2024-02-05",
+                    "causeId": null,
+                    "relaxedAmenityIds": null,
+                    "categoryTag": null,
+                    "pets": 0,
+                    "splitStaysUuid": null,
+                    "highlightType": null,
+                    "enableM3PrivateRoom": false
+                }
+            },
+            {
+                "listing": {
+                    "avgRatingLocalized": "4.35 (60)",
+                    "avgRatingA11yLabel": "4.35 out of 5 average rating,  60 reviews",
+                    "city": "London",
+                    "contextualPictures": [
+                        {
+                            "id": "1434516566",
+                            "picture": "https://a0.muscache.com/im/pictures/67375aab-de4a-4f63-a0dc-985335a44fa7.jpg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1434516117",
+                            "picture": "https://a0.muscache.com/im/pictures/39083465-8565-4a03-935d-c8ffafdbb1b5.jpg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1227390984",
+                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-51305662/original/e99cfa38-c6fb-486a-8fb9-319d77f5eabb.png?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["1 bed", "1 bedroom"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1648025025",
+                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-51305662/original/c634391b-974c-4e83-92cd-d00023dc7070.jpeg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["1 shared bathroom"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1434516181",
+                            "picture": "https://a0.muscache.com/im/pictures/31a4f5ae-fa08-4d57-a79e-f46ed4f5356c.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["1 double bed"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1434516375",
+                            "picture": "https://a0.muscache.com/im/pictures/8d776c1d-c99e-4c65-9069-06dbfb2427cc.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": [
+                                    "Wifi",
+                                    "Free parking",
+                                    "Kitchen",
+                                    "Self check-in"
+                                ],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        }
+                    ],
+                    "contextualPicturesCount": 12,
+                    "contextualPicturesPageInfo": {
+                        "hasNextPage": true,
+                        "endCursor": "NQ=="
+                    },
+                    "coordinate": {
+                        "longitude": -81.26395,
+                        "latitude": 42.99175
+                    },
+                    "formattedBadges": [],
+                    "id": "51305662",
+                    "isAutoTranslated": false,
+                    "listingObjType": "REGULAR",
+                    "localizedCityName": "London",
+                    "name": "Quaint basement room 2 mins from UWO",
+                    "primaryHostPassport": null,
+                    "pdpType": "MARKETPLACE",
+                    "roomTypeCategory": "private_room",
+                    "roomTypeId": null,
+                    "structuredContent": {
+                        "primaryLine": null,
+                        "secondaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "2–7 Jan",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "mapPrimaryLine": null,
+                        "mapSecondaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "2–7 Jan",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "mapCategoryInfo": null,
+                        "distance": [
+                            {
+                                "type": "LISTING_PRIVATE_ROOM_SUITE_HIGHLIGHT",
+                                "headline": null,
+                                "body": "Stay with B",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ]
+                    },
+                    "tierId": 0,
+                    "title": "Place to stay in West London",
+                    "titleLocale": "en"
+                },
+                "pricingQuote": {
+                    "structuredStayDisplayPrice": {
+                        "primaryLine": {
+                            "accessibilityLabel": "$40 per night",
+                            "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                            "concatQualifierLeft": false,
+                            "price": "$40",
+                            "qualifier": "night",
+                            "trailingContent": null,
+                            "shortQualifier": "night"
+                        },
+                        "secondaryLine": {
+                            "accessibilityLabel": "$197 total",
+                            "displayComponentType": "BASIC_DISPLAY_PRICE_LINE",
+                            "price": "$197 total"
+                        },
+                        "explanationData": {
+                            "title": "Price breakdown",
+                            "priceDetails": [
+                                {
+                                    "items": [
+                                        {
+                                            "description": "$26 x 5 nights",
+                                            "priceString": "$132"
+                                        },
+                                        {
+                                            "description": "Cleaning fee",
+                                            "priceString": "$19"
+                                        },
+                                        {
+                                            "description": "Airbnb service fee",
+                                            "priceString": "$26"
+                                        },
+                                        {
+                                            "description": "Taxes",
+                                            "priceString": "$20"
+                                        }
+                                    ],
+                                    "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                                    "shouldRenderTopBorder": false
+                                }
+                            ]
+                        },
+                        "explanationDataDisplayPosition": "SECONDARY_LINE"
+                    }
+                },
+                "listingParamOverrides": {
+                    "adults": 1,
+                    "children": 0,
+                    "infants": 0,
+                    "checkin": "2024-01-02",
+                    "checkout": "2024-01-07",
+                    "causeId": null,
+                    "relaxedAmenityIds": null,
+                    "categoryTag": null,
+                    "pets": 0,
+                    "splitStaysUuid": null,
+                    "highlightType": null,
+                    "enableM3PrivateRoom": false
+                }
+            },
+            {
+                "listing": {
+                    "avgRatingLocalized": "5.0 (14)",
+                    "avgRatingA11yLabel": "5.0 out of 5 average rating,  14 reviews",
+                    "city": "London",
+                    "contextualPictures": [
+                        {
+                            "id": "1768903176",
+                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1011965552297892299/original/23cce011-4928-4ddd-9c3d-a37ff4f53711.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1768903181",
+                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1011965552297892299/original/e5ca8ee1-c00a-4f53-aba1-7e54bbb55604.jpeg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["1 bed", "Studio"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1768903182",
+                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1011965552297892299/original/12978b42-56ac-4755-99ed-ce16cbcf4e58.jpeg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["1 bathroom"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1768903183",
+                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1011965552297892299/original/da851e12-22b9-4212-8da4-9a91f6d72285.jpeg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": [
+                                    "Wifi",
+                                    "Kitchen",
+                                    "Self check-in"
+                                ],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1768903187",
+                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1011965552297892299/original/8e6899af-dc14-4f69-8658-6d15f11f6702.jpeg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": [
+                                    "Rated 4.9 out of 5 for cleanliness"
+                                ],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1768903188",
+                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1011965552297892299/original/ac76c820-47b4-43e3-bde5-bbcb05cf57d9.jpeg?im_w=720",
+                            "caption": null
+                        }
+                    ],
+                    "contextualPicturesCount": 6,
+                    "contextualPicturesPageInfo": {
+                        "hasNextPage": false,
+                        "endCursor": null
+                    },
+                    "coordinate": {
+                        "longitude": -81.25049095415223,
+                        "latitude": 42.990840995470066
+                    },
+                    "formattedBadges": [
+                        {
+                            "textColor": "#222222",
+                            "text": "Superhost",
+                            "borderColor": "rgba(0, 0, 0, 0.2)",
+                            "backgroundColor": "rgba(255, 255, 255, 0.95)"
+                        }
+                    ],
+                    "id": "1011965552297892299",
+                    "isAutoTranslated": false,
+                    "listingObjType": "REGULAR",
+                    "localizedCityName": "London",
+                    "name": "Downtown London Studio",
+                    "primaryHostPassport": null,
+                    "pdpType": "MARKETPLACE",
+                    "roomTypeCategory": "entire_home",
+                    "roomTypeId": null,
+                    "structuredContent": {
+                        "primaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "1 bed",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "secondaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "7–12 Jan",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "mapPrimaryLine": null,
+                        "mapSecondaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "7–12 Jan",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "mapCategoryInfo": null,
+                        "distance": null
+                    },
+                    "tierId": 0,
+                    "title": "Flat in Central London",
+                    "titleLocale": "en"
+                },
+                "pricingQuote": {
+                    "structuredStayDisplayPrice": {
+                        "primaryLine": {
+                            "accessibilityLabel": "$99 per night",
+                            "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                            "concatQualifierLeft": false,
+                            "price": "$99",
+                            "qualifier": "night",
+                            "trailingContent": null,
+                            "shortQualifier": "night"
+                        },
+                        "secondaryLine": {
+                            "accessibilityLabel": "$491 total",
+                            "displayComponentType": "BASIC_DISPLAY_PRICE_LINE",
+                            "price": "$491 total"
+                        },
+                        "explanationData": {
+                            "title": "Price breakdown",
+                            "priceDetails": [
+                                {
+                                    "items": [
+                                        {
+                                            "description": "$68 x 5 nights",
+                                            "priceString": "$340"
+                                        },
+                                        {
+                                            "description": "Cleaning fee",
+                                            "priceString": "$38"
+                                        },
+                                        {
+                                            "description": "Airbnb service fee",
+                                            "priceString": "$64"
+                                        },
+                                        {
+                                            "description": "Taxes",
+                                            "priceString": "$49"
+                                        }
+                                    ],
+                                    "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                                    "shouldRenderTopBorder": false
+                                }
+                            ]
+                        },
+                        "explanationDataDisplayPosition": "SECONDARY_LINE"
+                    }
+                },
+                "listingParamOverrides": {
+                    "adults": 1,
+                    "children": 0,
+                    "infants": 0,
+                    "checkin": "2024-01-07",
+                    "checkout": "2024-01-12",
+                    "causeId": null,
+                    "relaxedAmenityIds": null,
+                    "categoryTag": null,
+                    "pets": 0,
+                    "splitStaysUuid": null,
+                    "highlightType": null,
+                    "enableM3PrivateRoom": false
+                }
+            },
+            {
+                "listing": {
+                    "avgRatingLocalized": "4.94 (377)",
+                    "avgRatingA11yLabel": "4.94 out of 5 average rating,  377 reviews",
+                    "city": "London",
+                    "contextualPictures": [
+                        {
+                            "id": "490253935",
+                            "picture": "https://a0.muscache.com/im/pictures/2159f1fe-df0d-473f-bb5a-44376575f9d8.jpg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "490255807",
+                            "picture": "https://a0.muscache.com/im/pictures/967a7ef7-7cc6-4a83-a66c-973517110b68.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["1 bed", "1 bedroom"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "490255905",
+                            "picture": "https://a0.muscache.com/im/pictures/3ba1e8c8-95e3-4e30-814d-f5f83062b201.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["1 shared bathroom"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "490256474",
+                            "picture": "https://a0.muscache.com/im/pictures/4800704c-9a00-479d-82d6-f58efc69663d.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["1 single bed"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "490256495",
+                            "picture": "https://a0.muscache.com/im/pictures/f3fd77c4-64f4-4644-a71f-c40ac2860671.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": [
+                                    "Wifi",
+                                    "Free parking",
+                                    "Kitchen",
+                                    "Self check-in"
+                                ],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "490256501",
+                            "picture": "https://a0.muscache.com/im/pictures/302b05b4-068a-4ab6-9f10-279ec21bd3fd.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": [
+                                    "Rated 5 out of 5 for cleanliness"
+                                ],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        }
+                    ],
+                    "contextualPicturesCount": 26,
+                    "contextualPicturesPageInfo": {
+                        "hasNextPage": true,
+                        "endCursor": "NQ=="
+                    },
+                    "coordinate": {
+                        "longitude": -81.23094,
+                        "latitude": 42.99425
+                    },
+                    "formattedBadges": [
+                        {
+                            "textColor": "#222222",
+                            "text": "Superhost",
+                            "borderColor": "rgba(0, 0, 0, 0.2)",
+                            "backgroundColor": "rgba(255, 255, 255, 0.95)"
+                        }
+                    ],
+                    "id": "24825476",
+                    "isAutoTranslated": false,
+                    "listingObjType": "REGULAR",
+                    "localizedCityName": "London",
+                    "name": "Cozy Charm",
+                    "primaryHostPassport": null,
+                    "pdpType": "MARKETPLACE",
+                    "roomTypeCategory": "private_room",
+                    "roomTypeId": null,
+                    "structuredContent": {
+                        "primaryLine": null,
+                        "secondaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "3–8 Jan",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "mapPrimaryLine": null,
+                        "mapSecondaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "3–8 Jan",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "mapCategoryInfo": null,
+                        "distance": [
+                            {
+                                "type": "LISTING_PRIVATE_ROOM_SUITE_HIGHLIGHT",
+                                "headline": null,
+                                "body": "Stay with Keri-Sue",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            },
+                            {
+                                "type": "LISTING_PRIVATE_ROOM_SUITE_HIGHLIGHT",
+                                "headline": null,
+                                "body": "Elementary teacher",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ]
+                    },
+                    "tierId": 0,
+                    "title": "Place to stay in London",
+                    "titleLocale": "en"
+                },
+                "pricingQuote": {
+                    "structuredStayDisplayPrice": {
+                        "primaryLine": {
+                            "accessibilityLabel": "$50 per night",
+                            "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                            "concatQualifierLeft": false,
+                            "price": "$50",
+                            "qualifier": "night",
+                            "trailingContent": null,
+                            "shortQualifier": "night"
+                        },
+                        "secondaryLine": {
+                            "accessibilityLabel": "$246 total",
+                            "displayComponentType": "BASIC_DISPLAY_PRICE_LINE",
+                            "price": "$246 total"
+                        },
+                        "explanationData": {
+                            "title": "Price breakdown",
+                            "priceDetails": [
+                                {
+                                    "items": [
+                                        {
+                                            "description": "$38 x 5 nights",
+                                            "priceString": "$189"
+                                        },
+                                        {
+                                            "description": "Airbnb service fee",
+                                            "priceString": "$32"
+                                        },
+                                        {
+                                            "description": "Taxes",
+                                            "priceString": "$25"
+                                        }
+                                    ],
+                                    "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                                    "shouldRenderTopBorder": false
+                                }
+                            ]
+                        },
+                        "explanationDataDisplayPosition": "SECONDARY_LINE"
+                    }
+                },
+                "listingParamOverrides": {
+                    "adults": 1,
+                    "children": 0,
+                    "infants": 0,
+                    "checkin": "2024-01-03",
+                    "checkout": "2024-01-08",
+                    "causeId": null,
+                    "relaxedAmenityIds": null,
+                    "categoryTag": null,
+                    "pets": 0,
+                    "splitStaysUuid": null,
+                    "highlightType": null,
+                    "enableM3PrivateRoom": false
+                }
+            },
+            {
+                "listing": {
+                    "avgRatingLocalized": "4.75 (105)",
+                    "avgRatingA11yLabel": "4.75 out of 5 average rating,  105 reviews",
+                    "city": "London",
+                    "contextualPictures": [
+                        {
+                            "id": "1173513848",
+                            "picture": "https://a0.muscache.com/im/pictures/457e9f0c-4efe-46df-924b-03b00b136d65.jpg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1173513825",
+                            "picture": "https://a0.muscache.com/im/pictures/04a026de-5b60-492d-bee7-0fee1a638433.jpg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1173513859",
+                            "picture": "https://a0.muscache.com/im/pictures/e0b17fac-c258-4378-ad0b-f3880cbc9ad1.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["1 shared bathroom"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1173513876",
+                            "picture": "https://a0.muscache.com/im/pictures/19c7ba75-dc96-4481-95b9-8cbb192ca3ea.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["1 single bed"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1173513903",
+                            "picture": "https://a0.muscache.com/im/pictures/b1c83b36-11a8-401b-b35d-28bd365498c0.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": [
+                                    "Wifi",
+                                    "Kitchen",
+                                    "Self check-in"
+                                ],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1173513949",
+                            "picture": "https://a0.muscache.com/im/pictures/50218ca9-d935-407d-aac2-3d4c995051c8.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": [
+                                    "Rated 4.5 out of 5 for cleanliness"
+                                ],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        }
+                    ],
+                    "contextualPicturesCount": 10,
+                    "contextualPicturesPageInfo": {
+                        "hasNextPage": true,
+                        "endCursor": "NQ=="
+                    },
+                    "coordinate": {
+                        "longitude": -81.23483,
+                        "latitude": 42.97009
+                    },
+                    "formattedBadges": [],
+                    "id": "49595342",
+                    "isAutoTranslated": false,
+                    "listingObjType": "REGULAR",
+                    "localizedCityName": "London",
+                    "name": "Bright Room Coffee and Tea Included!",
+                    "primaryHostPassport": null,
+                    "pdpType": "MARKETPLACE",
+                    "roomTypeCategory": "private_room",
+                    "roomTypeId": null,
+                    "structuredContent": {
+                        "primaryLine": null,
+                        "secondaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "2–7 Jan",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "mapPrimaryLine": null,
+                        "mapSecondaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "2–7 Jan",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "mapCategoryInfo": null,
+                        "distance": [
+                            {
+                                "type": "LISTING_PRIVATE_ROOM_SUITE_HIGHLIGHT",
+                                "headline": null,
+                                "body": "Stay with Heather",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ]
+                    },
+                    "tierId": 0,
+                    "title": "Place to stay in South London",
+                    "titleLocale": "en"
+                },
+                "pricingQuote": {
+                    "structuredStayDisplayPrice": {
+                        "primaryLine": {
+                            "accessibilityLabel": "$42 per night",
+                            "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                            "concatQualifierLeft": false,
+                            "price": "$42",
+                            "qualifier": "night",
+                            "trailingContent": null,
+                            "shortQualifier": "night"
+                        },
+                        "secondaryLine": {
+                            "accessibilityLabel": "$207 total",
+                            "displayComponentType": "BASIC_DISPLAY_PRICE_LINE",
+                            "price": "$207 total"
+                        },
+                        "explanationData": {
+                            "title": "Price breakdown",
+                            "priceDetails": [
+                                {
+                                    "items": [
+                                        {
+                                            "description": "$30 x 5 nights",
+                                            "priceString": "$151"
+                                        },
+                                        {
+                                            "description": "Cleaning fee",
+                                            "priceString": "$8"
+                                        },
+                                        {
+                                            "description": "Airbnb service fee",
+                                            "priceString": "$27"
+                                        },
+                                        {
+                                            "description": "Taxes",
+                                            "priceString": "$21"
+                                        }
+                                    ],
+                                    "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                                    "shouldRenderTopBorder": false
+                                }
+                            ]
+                        },
+                        "explanationDataDisplayPosition": "SECONDARY_LINE"
+                    }
+                },
+                "listingParamOverrides": {
+                    "adults": 1,
+                    "children": 0,
+                    "infants": 0,
+                    "checkin": "2024-01-02",
+                    "checkout": "2024-01-07",
+                    "causeId": null,
+                    "relaxedAmenityIds": null,
+                    "categoryTag": null,
+                    "pets": 0,
+                    "splitStaysUuid": null,
+                    "highlightType": null,
+                    "enableM3PrivateRoom": false
+                }
+            },
+            {
+                "listing": {
+                    "avgRatingLocalized": "4.9 (20)",
+                    "avgRatingA11yLabel": "4.9 out of 5 average rating,  20 reviews",
+                    "city": "London",
+                    "contextualPictures": [
+                        {
+                            "id": "1732926563",
+                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-972418074783083664/original/cfc923a2-ed4d-4d0a-93b3-2f1c8cbdd9aa.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1732926524",
+                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-972418074783083664/original/0bfccbf6-9f89-4ace-92de-b0e034cb11a9.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1802268499",
+                            "picture": "https://a0.muscache.com/im/pictures/9f972743-f222-41f5-b3cc-701df0bc3053.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["1 bed", "1 bedroom"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1732926537",
+                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-972418074783083664/original/62b63c41-c7b5-4081-8ebc-6ae4ee0accb4.jpeg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["1 bathroom"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1802658570",
+                            "picture": "https://a0.muscache.com/im/pictures/16dcac9c-6da8-4177-bcd6-5a0760940063.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["Wifi", "Free parking", "Kitchen"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1802658619",
+                            "picture": "https://a0.muscache.com/im/pictures/dde516c6-d9f4-4812-84c2-9bda3c753fe1.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": [
+                                    "Rated 4.9 out of 5 for cleanliness"
+                                ],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        }
+                    ],
+                    "contextualPicturesCount": 10,
+                    "contextualPicturesPageInfo": {
+                        "hasNextPage": true,
+                        "endCursor": "NQ=="
+                    },
+                    "coordinate": {
+                        "longitude": -81.31966151297092,
+                        "latitude": 43.01889058623079
+                    },
+                    "formattedBadges": [
+                        {
+                            "textColor": "#222222",
+                            "text": "Superhost",
+                            "borderColor": "rgba(0, 0, 0, 0.2)",
+                            "backgroundColor": "rgba(255, 255, 255, 0.95)"
+                        }
+                    ],
+                    "id": "972418074783083664",
+                    "isAutoTranslated": false,
+                    "listingObjType": "REGULAR",
+                    "localizedCityName": "London",
+                    "name": "One bed room with share washroom",
+                    "primaryHostPassport": null,
+                    "pdpType": "MARKETPLACE",
+                    "roomTypeCategory": "private_room",
+                    "roomTypeId": null,
+                    "structuredContent": {
+                        "primaryLine": null,
+                        "secondaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "5–10 Jan",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "mapPrimaryLine": null,
+                        "mapSecondaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "5–10 Jan",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "mapCategoryInfo": null,
+                        "distance": [
+                            {
+                                "type": "LISTING_PRIVATE_ROOM_SUITE_HIGHLIGHT",
+                                "headline": null,
+                                "body": "Stay with Kamrul",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            },
+                            {
+                                "type": "LISTING_PRIVATE_ROOM_SUITE_HIGHLIGHT",
+                                "headline": null,
+                                "body": "Hosting for 6 years",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ]
+                    },
+                    "tierId": 0,
+                    "title": "Place to stay in London",
+                    "titleLocale": "en"
+                },
+                "pricingQuote": {
+                    "structuredStayDisplayPrice": {
+                        "primaryLine": {
+                            "accessibilityLabel": "$34 per night",
+                            "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                            "concatQualifierLeft": false,
+                            "price": "$34",
+                            "qualifier": "night",
+                            "trailingContent": null,
+                            "shortQualifier": "night"
+                        },
+                        "secondaryLine": {
+                            "accessibilityLabel": "$167 total",
+                            "displayComponentType": "BASIC_DISPLAY_PRICE_LINE",
+                            "price": "$167 total"
+                        },
+                        "explanationData": {
+                            "title": "Price breakdown",
+                            "priceDetails": [
+                                {
+                                    "items": [
+                                        {
+                                            "description": "$23 x 5 nights",
+                                            "priceString": "$113"
+                                        },
+                                        {
+                                            "description": "Cleaning fee",
+                                            "priceString": "$15"
+                                        },
+                                        {
+                                            "description": "Airbnb service fee",
+                                            "priceString": "$22"
+                                        },
+                                        {
+                                            "description": "Taxes",
+                                            "priceString": "$17"
+                                        }
+                                    ],
+                                    "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                                    "shouldRenderTopBorder": false
+                                }
+                            ]
+                        },
+                        "explanationDataDisplayPosition": "SECONDARY_LINE"
+                    }
+                },
+                "listingParamOverrides": {
+                    "adults": 1,
+                    "children": 0,
+                    "infants": 0,
+                    "checkin": "2024-01-05",
+                    "checkout": "2024-01-10",
+                    "causeId": null,
+                    "relaxedAmenityIds": null,
+                    "categoryTag": null,
+                    "pets": 0,
+                    "splitStaysUuid": null,
+                    "highlightType": null,
+                    "enableM3PrivateRoom": false
+                }
+            },
+            {
+                "listing": {
+                    "avgRatingLocalized": "New",
+                    "avgRatingA11yLabel": "New place to stay",
+                    "city": "London",
+                    "contextualPictures": [
+                        {
+                            "id": "1808084248",
+                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1054666931074691221/original/d5b56071-198a-4ce2-a62d-eaf2577db437.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1808084268",
+                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1054666931074691221/original/fbd43d66-3286-4b76-97b8-aba34a179cdb.jpeg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["1 bed", "1 bedroom"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1808084252",
+                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1054666931074691221/original/d12fd9c1-c8dd-47a1-95e2-fc2faa2c45de.jpeg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["1 bathroom"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1808084274",
+                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1054666931074691221/original/702c0a7d-2b25-4c73-8fbb-c8ffe95fe639.jpeg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["Wifi", "Free parking", "Kitchen"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1808084249",
+                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1054666931074691221/original/11c572a3-1fa1-4eb7-be78-a6fb2693dbf8.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1808084247",
+                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1054666931074691221/original/d491cc52-f42b-4ffe-a6f5-f0920c85a078.jpeg?im_w=720",
+                            "caption": null
+                        }
+                    ],
+                    "contextualPicturesCount": 8,
+                    "contextualPicturesPageInfo": {
+                        "hasNextPage": true,
+                        "endCursor": "NQ=="
+                    },
+                    "coordinate": {
+                        "longitude": -81.26916509345838,
+                        "latitude": 43.047028281349185
+                    },
+                    "formattedBadges": [
+                        {
+                            "textColor": "#222222",
+                            "text": "Superhost",
+                            "borderColor": "rgba(0, 0, 0, 0.2)",
+                            "backgroundColor": "rgba(255, 255, 255, 0.95)"
+                        }
+                    ],
+                    "id": "1054666931074691221",
+                    "isAutoTranslated": false,
+                    "listingObjType": "REGULAR",
+                    "localizedCityName": "London",
+                    "name": "Spacious Room w Private Washroom",
+                    "primaryHostPassport": null,
+                    "pdpType": "MARKETPLACE",
+                    "roomTypeCategory": "private_room",
+                    "roomTypeId": null,
+                    "structuredContent": {
+                        "primaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "1 bed",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "secondaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "2–7 Jan",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "mapPrimaryLine": null,
+                        "mapSecondaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "2–7 Jan",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "mapCategoryInfo": null,
+                        "distance": null
+                    },
+                    "tierId": 0,
+                    "title": "Place to stay in London",
+                    "titleLocale": "en"
+                },
+                "pricingQuote": {
+                    "structuredStayDisplayPrice": {
+                        "primaryLine": {
+                            "accessibilityLabel": "$44 per night",
+                            "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                            "concatQualifierLeft": false,
+                            "price": "$44",
+                            "qualifier": "night",
+                            "trailingContent": null,
+                            "shortQualifier": "night"
+                        },
+                        "secondaryLine": {
+                            "accessibilityLabel": "$216 total",
+                            "displayComponentType": "BASIC_DISPLAY_PRICE_LINE",
+                            "price": "$216 total"
+                        },
+                        "explanationData": {
+                            "title": "Price breakdown",
+                            "priceDetails": [
+                                {
+                                    "items": [
+                                        {
+                                            "description": "$29 x 5 nights",
+                                            "priceString": "$147"
+                                        },
+                                        {
+                                            "description": "Cleaning fee",
+                                            "priceString": "$19"
+                                        },
+                                        {
+                                            "description": "Airbnb service fee",
+                                            "priceString": "$28"
+                                        },
+                                        {
+                                            "description": "Taxes",
+                                            "priceString": "$22"
+                                        }
+                                    ],
+                                    "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                                    "shouldRenderTopBorder": false
+                                }
+                            ]
+                        },
+                        "explanationDataDisplayPosition": "SECONDARY_LINE"
+                    }
+                },
+                "listingParamOverrides": {
+                    "adults": 1,
+                    "children": 0,
+                    "infants": 0,
+                    "checkin": "2024-01-02",
+                    "checkout": "2024-01-07",
+                    "causeId": null,
+                    "relaxedAmenityIds": null,
+                    "categoryTag": null,
+                    "pets": 0,
+                    "splitStaysUuid": null,
+                    "highlightType": null,
+                    "enableM3PrivateRoom": false
+                }
+            },
+            {
+                "listing": {
+                    "avgRatingLocalized": "4.88 (17)",
+                    "avgRatingA11yLabel": "4.88 out of 5 average rating,  17 reviews",
+                    "city": "London",
+                    "contextualPictures": [
+                        {
+                            "id": "1745040983",
+                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-986115819960557540/original/36da9e76-d28b-4f78-b8bd-f01823f16571.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1745040979",
+                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-986115819960557540/original/1eca5f7a-a5be-43a8-8ad7-92131b61c327.jpeg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["2 beds", "1 bedroom"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1745040980",
+                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-986115819960557540/original/e173ebe1-bf1a-4a73-899e-17b7a979aa76.jpeg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["1 bathroom"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1745040966",
+                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-986115819960557540/original/43aa3278-4a80-4330-950d-0807689d3716.jpeg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["1 queen bed", "1 sofa bed"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1745040996",
+                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-986115819960557540/original/c0de7af1-4433-47ca-a06d-298c37e22877.jpeg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": [
+                                    "Wifi",
+                                    "Free parking",
+                                    "Kitchen",
+                                    "Self check-in"
+                                ],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1745040995",
+                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-986115819960557540/original/e6ac89ec-db88-4404-a785-533254316789.jpeg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": [
+                                    "Rated 5 out of 5 for cleanliness"
+                                ],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        }
+                    ],
+                    "contextualPicturesCount": 11,
+                    "contextualPicturesPageInfo": {
+                        "hasNextPage": true,
+                        "endCursor": "NQ=="
+                    },
+                    "coordinate": {
+                        "longitude": -81.26320946988712,
+                        "latitude": 42.980360165303644
+                    },
+                    "formattedBadges": [
+                        {
+                            "textColor": "#222222",
+                            "text": "Superhost",
+                            "borderColor": "rgba(0, 0, 0, 0.2)",
+                            "backgroundColor": "rgba(255, 255, 255, 0.95)"
+                        }
+                    ],
+                    "id": "986115819960557540",
+                    "isAutoTranslated": false,
+                    "listingObjType": "REGULAR",
+                    "localizedCityName": "London",
+                    "name": "Riverfront Retreat Near Downtown",
+                    "primaryHostPassport": null,
+                    "pdpType": "MARKETPLACE",
+                    "roomTypeCategory": "entire_home",
+                    "roomTypeId": null,
+                    "structuredContent": {
+                        "primaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "2 beds",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "secondaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "4–9 Jan",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "mapPrimaryLine": null,
+                        "mapSecondaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "4–9 Jan",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "mapCategoryInfo": null,
+                        "distance": null
+                    },
+                    "tierId": 0,
+                    "title": "Flat in West London",
+                    "titleLocale": "en"
+                },
+                "pricingQuote": {
+                    "structuredStayDisplayPrice": {
+                        "primaryLine": {
+                            "accessibilityLabel": "$114 per night",
+                            "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                            "concatQualifierLeft": false,
+                            "price": "$114",
+                            "qualifier": "night",
+                            "trailingContent": null,
+                            "shortQualifier": "night"
+                        },
+                        "secondaryLine": {
+                            "accessibilityLabel": "$567 total",
+                            "displayComponentType": "BASIC_DISPLAY_PRICE_LINE",
+                            "price": "$567 total"
+                        },
+                        "explanationData": {
+                            "title": "Price breakdown",
+                            "priceDetails": [
+                                {
+                                    "items": [
+                                        {
+                                            "description": "$81 x 5 nights",
+                                            "priceString": "$406"
+                                        },
+                                        {
+                                            "description": "Cleaning fee",
+                                            "priceString": "$30"
+                                        },
+                                        {
+                                            "description": "Airbnb service fee",
+                                            "priceString": "$74"
+                                        },
+                                        {
+                                            "description": "Taxes",
+                                            "priceString": "$57"
+                                        }
+                                    ],
+                                    "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                                    "shouldRenderTopBorder": false
+                                }
+                            ]
+                        },
+                        "explanationDataDisplayPosition": "SECONDARY_LINE"
+                    }
+                },
+                "listingParamOverrides": {
+                    "adults": 1,
+                    "children": 0,
+                    "infants": 0,
+                    "checkin": "2024-01-04",
+                    "checkout": "2024-01-09",
+                    "causeId": null,
+                    "relaxedAmenityIds": null,
+                    "categoryTag": null,
+                    "pets": 0,
+                    "splitStaysUuid": null,
+                    "highlightType": null,
+                    "enableM3PrivateRoom": false
+                }
+            },
+            {
+                "listing": {
+                    "avgRatingLocalized": "4.82 (241)",
+                    "avgRatingA11yLabel": "4.82 out of 5 average rating,  241 reviews",
+                    "city": "London",
+                    "contextualPictures": [
+                        {
+                            "id": "1107371055",
+                            "picture": "https://a0.muscache.com/im/pictures/8357a902-de43-40ee-a27a-1127c69c6a23.jpg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1107371207",
+                            "picture": "https://a0.muscache.com/im/pictures/91f47c7c-6990-4ff9-8877-8d81e25ba635.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["1 bed", "Studio"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1107371267",
+                            "picture": "https://a0.muscache.com/im/pictures/0de17043-ada0-40b4-9966-07c016f4297e.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["1 bathroom"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1107371308",
+                            "picture": "https://a0.muscache.com/im/pictures/ed955948-f007-43f8-9ea8-60428fbea063.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": ["1 queen bed"],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1107371321",
+                            "picture": "https://a0.muscache.com/im/pictures/a20f119e-3e1d-473c-9832-e46a38a24719.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": [
+                                    "Wifi",
+                                    "Free parking",
+                                    "Kitchen",
+                                    "Self check-in"
+                                ],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1107371344",
+                            "picture": "https://a0.muscache.com/im/pictures/b688f99b-8673-4424-a71b-ad64da6007e0.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": [
+                                    "Rated 4.8 out of 5 for cleanliness"
+                                ],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        }
+                    ],
+                    "contextualPicturesCount": 14,
+                    "contextualPicturesPageInfo": {
+                        "hasNextPage": true,
+                        "endCursor": "NQ=="
+                    },
+                    "coordinate": {
+                        "longitude": -81.24507,
+                        "latitude": 42.94556
+                    },
+                    "formattedBadges": [
+                        {
+                            "textColor": "#222222",
+                            "text": "Superhost",
+                            "borderColor": "rgba(0, 0, 0, 0.2)",
+                            "backgroundColor": "rgba(255, 255, 255, 0.95)"
+                        }
+                    ],
+                    "id": "24249457",
+                    "isAutoTranslated": false,
+                    "listingObjType": "REGULAR",
+                    "localizedCityName": "London",
+                    "name": "Andrea’s",
+                    "primaryHostPassport": null,
+                    "pdpType": "MARKETPLACE",
+                    "roomTypeCategory": "entire_home",
+                    "roomTypeId": null,
+                    "structuredContent": {
+                        "primaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "1 queen bed",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "secondaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "2–7 Jan",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "mapPrimaryLine": null,
+                        "mapSecondaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "2–7 Jan",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "mapCategoryInfo": null,
+                        "distance": null
+                    },
+                    "tierId": 0,
+                    "title": "Guest suite in London",
+                    "titleLocale": "en"
+                },
+                "pricingQuote": {
+                    "structuredStayDisplayPrice": {
+                        "primaryLine": {
+                            "accessibilityLabel": "$83 per night",
+                            "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                            "concatQualifierLeft": false,
+                            "price": "$83",
+                            "qualifier": "night",
+                            "trailingContent": null,
+                            "shortQualifier": "night"
+                        },
+                        "secondaryLine": {
+                            "accessibilityLabel": "$412 total",
+                            "displayComponentType": "BASIC_DISPLAY_PRICE_LINE",
+                            "price": "$412 total"
+                        },
+                        "explanationData": {
+                            "title": "Price breakdown",
+                            "priceDetails": [
+                                {
+                                    "items": [
+                                        {
+                                            "description": "$62 x 5 nights",
+                                            "priceString": "$309"
+                                        },
+                                        {
+                                            "description": "Cleaning fee",
+                                            "priceString": "$8"
+                                        },
+                                        {
+                                            "description": "Airbnb service fee",
+                                            "priceString": "$54"
+                                        },
+                                        {
+                                            "description": "Taxes",
+                                            "priceString": "$41"
+                                        }
+                                    ],
+                                    "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                                    "shouldRenderTopBorder": false
+                                }
+                            ]
+                        },
+                        "explanationDataDisplayPosition": "SECONDARY_LINE"
+                    }
+                },
+                "listingParamOverrides": {
+                    "adults": 1,
+                    "children": 0,
+                    "infants": 0,
+                    "checkin": "2024-01-02",
+                    "checkout": "2024-01-07",
+                    "causeId": null,
+                    "relaxedAmenityIds": null,
+                    "categoryTag": null,
+                    "pets": 0,
+                    "splitStaysUuid": null,
+                    "highlightType": null,
+                    "enableM3PrivateRoom": false
+                }
+            }
+        ],
+        "nextPageCursor": "eyJzZWN0aW9uX29mZnNldCI6MywiaXRlbXNfb2Zmc2V0IjoxMCwidmVyc2lvbiI6MX0="
+    }
+}
