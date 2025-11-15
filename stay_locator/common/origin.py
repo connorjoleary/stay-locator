@@ -1,13 +1,15 @@
 from dataclasses import field
 from typing import Any
+from uuid import UUID, uuid4
 
-# TODO: confirm correct pydantic usage
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
 from stay_locator.common.utils import LocationType
 
 
 class Origin(BaseModel):
+    uid: UUID = Field(default_factory=uuid4)
+    # TODO: improve validation
     location: Any
     # TODO: break metadata into distinct fields
     metadata: dict = field(default_factory=dict)

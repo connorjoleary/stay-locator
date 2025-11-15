@@ -19,7 +19,6 @@ class AirBNBAPITool(APITool):
             "checkOut": query_details.checkOut.isoformat(),
             "adults": str(query_details.adults),
         }
-        # TODO: I think there is a way to set the var in the if to be used
         if query_details.max_price:
             query_string["priceMax"] = str(query_details.max_price)
         return query_string

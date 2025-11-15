@@ -10,7 +10,6 @@ from stay_locator.data_collection.common.utils import QueryDetails
 AIRBNB_SEARCH_BY_LOC_PATH = "tests/test_data/rapid_api_examples/airbnb_search_by_loc.json"
 
 
-# TODO: proper setup with fixtures
 class TestAirbnbDataCollection:
     @fixture
     def api_tool(self):
@@ -34,7 +33,6 @@ class TestAirbnbDataCollection:
                 json=json.load(f),
             )
 
-        # TODO: add override for request
         query_details = QueryDetails(
             location="London",
             adults=2,
