@@ -1,0 +1,3 @@
+pyproject configuration, based on the generic configuration.
+
+alembic revision --autogenerate -m "Added account table"
